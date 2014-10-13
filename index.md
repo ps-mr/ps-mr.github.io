@@ -7,11 +7,11 @@ Welcome to the website of the Arbeitsgruppe Ostermann in Tübingen University.
 Our research group is concerned with the design of programming languages, methodologies, and tools that improve the productivity of software developers.
 
 ## Members
-* Prof. Dr. Klaus Ostermann
-* Jonathan Brachthäuser
-* Yufei Cai, MSc.
-* Paolo Giarrusso, MSc.
-* Tillmann Rendel, MSc.
+* Prof. Dr. Klaus Ostermann ─ Room B217/8, Fachbereich Informatik, Sand 13
+* Jonathan Brachthäuser ─ Room B211, Fachbereich Informatik, Sand 13
+* Yufei Cai, MSc. ─ Room B211, Fachbereich Informatik, Sand 13
+* Paolo Giarrusso, MSc. ─ Room B211, Fachbereich Informatik, Sand 13
+* Tillmann Rendel, MSc. ─ Room B213, Fachbereich Informatik, Sand 13
 
 ## Teaching
 
