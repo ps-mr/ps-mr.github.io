@@ -2,7 +2,7 @@
 layout: index
 ---
 
-Welcome to the website of the Arbeitsgruppe Ostermann in Tübingen University.
+Welcome to the website of the programming languages and software technology group at Tübingen University.
 
 Our research group is concerned with the design of programming languages, methodologies, and tools that improve the productivity of software developers.
 
