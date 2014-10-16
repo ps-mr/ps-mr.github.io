@@ -26,7 +26,9 @@ Jonathan Brachthäuser
 Vorlesung: Mittwochs, 10 c.t. (Sand A301)  
 Übung: Freitags, 10 c.t. (Sand C215)  
 Credits: 6 LP  
-[Vorlesungsverz.](http://campus.verwaltung.uni-tuebingen.de/lsfpublic/rds?state=verpublish&status=init&vmfile=no&publishid=113720&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
+[Vorlesungsverz.](http://campus.verwaltung.uni-tuebingen.de/lsfpublic/rds?state=verpublish&status=init&vmfile=no&publishid=113720&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)  
+[Vorlesungsfolien](https://github.com/klauso/SDPT2014)
+
 
 ### Organisatorisches
 22.10.2014 Die Vorlesung fällt aus.
