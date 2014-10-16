@@ -26,4 +26,5 @@ Our research group is concerned with the design of programming languages, method
   - [website](ws14-metaprogramming.html)
   - [entry in lecture listing ("Vorlesungsverzeichnis")](http://campus.verwaltung.uni-tuebingen.de/lsfpublic/rds?state=verpublish&status=init&vmfile=no&publishid=114223&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
 * **Introduction to Parsing in Scala** (Praktikum)
+  - [website](http://yfcai.github.io/scala/)
   - [entry in lecture listing ("Vorlesungsverzeichnis")](http://campus.verwaltung.uni-tuebingen.de/lsfpublic/rds?state=verpublish&status=init&vmfile=no&publishid=113956&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
