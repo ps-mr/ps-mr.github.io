@@ -20,6 +20,7 @@ Weitere Informationen werden Sie im Laufe des Semesters auf dieser Seite finden.
 
 ### Dozent
 Prof. Klaus Ostermann
+
 Jonathan Brachthäuser
 
 ### Kursinformationen
@@ -30,4 +31,5 @@ Credits: 6 LP
 
 ### Organisatorisches
 22.10.2014 Die Vorlesung fällt aus.
+
 24.10.2014 Herr Paolo Giarrusso übernimmt die erste Übung. Die Übung wird auf Englisch stattfinden.
