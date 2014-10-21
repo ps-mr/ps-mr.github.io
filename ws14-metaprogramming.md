@@ -19,6 +19,14 @@ Credits: 4 LP
 [LSF entry](http://campus.verwaltung.uni-tuebingen.de/lsfpublic/rds?state=verpublish&status=init&vmfile=no&publishid=114223&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)  
 Contact: p (dot) giarrusso (at) gmail (dot) com
 
+### Registering: Doodle poll for timeslot
+
+If you are interested to participate, I kindly ask you the following.
+
+1. Indicate your availability [here](http://doodle.com/bnx7773c7msnq29i). Please let me know ASAP if you need timeslots for odd hours because of your lectures.
+And please fill in the Doodle ASAP, possibly by Friday (or let me know if you can't).
+2. Send me an email with name, student number, course and a short summary of favored languages or relevant experience.
+
 ### Kick-off meeting
 
 21.10.2014 17:15-19:00, [Room A302](http://campus.verwaltung.uni-tuebingen.de/lsfpublic/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoRaum&publishSubDir=raum&keep=y&raum.rgid=2786).
