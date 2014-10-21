@@ -33,15 +33,20 @@ And please fill in the Doodle ASAP, possibly by Friday (or let me know if you ca
 
 ### Course structure
 
-During the semester, we will discuss together a paper each week in a meeting. Everybody should read the paper in advance, prepare and submit a short summary and questions. A discussion leader (a different student each week) should dig deeper on the topic, also based on the questions by other students, and prepare to moderate the discussion.
+During the semester, we will discuss together a paper each week in a meeting. Everybody should read the paper in advance, prepare and submit a short summary and questions (150-300 words). A discussion leader should dig deeper on the topic, also based on the questions by other students, and prepare to moderate the discussion. The role of discussion leader rotates among students.
 
 At the end of the semester, each participant should submit a short term paper, surveying one of the discussed topics.
 
-The seminar is graded, and the note depends on both the summaries, the participation to the discussion, and the final term papers.
+The seminar is graded, and the final grade depends on both the summaries, the participation to the discussion, and the final term paper.
 
-### Some relevant papers
+### Seminar schedule:
 
-* On *programs as data*: McCarthy, 1960. [Recursive functions of symbolic expressions and their computation by machine, part 1](http://cs.cmu.edu/~crary/819-f09/McCarthy60.pdf).
+* First meeting (date to determine). On *programs as data*: McCarthy, 1960. [Recursive functions of symbolic expressions and their computation by machine, part 1](http://cs.cmu.edu/~crary/819-f09/McCarthy60.pdf).
+Discussion leader: Paolo.
+
+Please try to prepare a summary and questions by Sunday (in case we need to meet on Monday).
+
+### Other relevant papers (to pick from for future meetings)
 
 * On *staging*: Taha and Sheard, 1997. [Multi-stage programming with explicit annotations](http://dl.acm.org/citation.cfm?id=259019).
 
