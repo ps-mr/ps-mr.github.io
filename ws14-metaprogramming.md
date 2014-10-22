@@ -29,7 +29,8 @@ And please fill in the Doodle ASAP, possibly by Friday (or let me know if you ca
 
 ### Kick-off meeting
 
-21.10.2014 17:15-19:00, [Room A302](http://campus.verwaltung.uni-tuebingen.de/lsfpublic/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoRaum&publishSubDir=raum&keep=y&raum.rgid=2786).
+21.10.2014 17:15-19:00, [Room A302](http://campus.verwaltung.uni-tuebingen.de/lsfpublic/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoRaum&publishSubDir=raum&keep=y&raum.rgid=2786).  
+[Introduction slides](https://github.com/Blaisorblade/ws14-mp/blob/master/WS14-Metaprogramming.pdf?raw=true).
 
 ### Course structure
 
