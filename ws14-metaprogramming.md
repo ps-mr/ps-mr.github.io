@@ -40,6 +40,14 @@ At the end of the semester, each participant should submit a short term paper, s
 
 The seminar is graded, and the final grade depends on both the summaries, the participation to the discussion, and the final term paper.
 
+### Tips on reading papers
+
+There are different approaches to reading a research paper, some more productive than others. While there are no strict rules, you might want to take a look at the following:
+
+* Philip W. L. Fong, 2004. [How to Read a CS Research Paper?](http://faculty.ksu.edu.sa/chikh/Documents/reading-paper.pdf) (4 pages).
+* S. Keshav, 2007. [How to Read a Paper](http://groups.csail.mit.edu/netmit/wordpress/wp-content/themes/netmit/papers/HowtoRead.pdf) (2 pages).
+
+
 ### Seminar schedule:
 
 * First meeting (date to determine). On *programs as data*: McCarthy, 1960. [Recursive functions of symbolic expressions and their computation by machine, part 1](http://cs.cmu.edu/~crary/819-f09/McCarthy60.pdf).
