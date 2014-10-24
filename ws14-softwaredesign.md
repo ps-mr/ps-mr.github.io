@@ -33,4 +33,4 @@ Credits: 6 LP
 ### Organisatorisches
 22.10.2014 Die Vorlesung fällt aus.
 
-24.10.2014 Herr Paolo Giarrusso übernimmt die erste Übung. Die Übung wird auf Englisch stattfinden.
+24.10.2014 Herr Paolo Giarrusso (email: p (dot) giarrusso (at) gmail (dot) com) übernimmt die erste Übung. Die Übung wird auf Englisch stattfinden.
