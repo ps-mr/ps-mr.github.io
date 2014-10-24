@@ -32,6 +32,10 @@ And please fill in the Doodle ASAP, possibly by Friday (or let me know if you ca
 21.10.2014 17:15-19:00, [Room A302](http://campus.verwaltung.uni-tuebingen.de/lsfpublic/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoRaum&publishSubDir=raum&keep=y&raum.rgid=2786).  
 [Introduction slides](https://github.com/Blaisorblade/ws14-mp/blob/master/WS14-Metaprogramming.pdf?raw=true).
 
+### Expected workload
+
+I miscomputed the seminar workload in the kick-off meeting. After a question, I updated the slides above, *reducing* the expected workload.
+
 ### Course structure
 
 During the semester, we will discuss together a paper each week in a meeting. Everybody should read the paper in advance, prepare and submit a short summary and questions (150-300 words). A discussion leader should dig deeper on the topic, also based on the questions by other students, and prepare to moderate the discussion. The role of discussion leader rotates among students.
