@@ -54,10 +54,10 @@ There are different approaches to reading a research paper, some more productive
 
 ### Seminar schedule:
 
-* First meeting (date to determine). On *programs as data*: McCarthy, 1960. [Recursive functions of symbolic expressions and their computation by machine, part 1](http://cs.cmu.edu/~crary/819-f09/McCarthy60.pdf).
+* First meeting (Tuesday 28, 6pm). On *programs as data*: McCarthy, 1960. [Recursive functions of symbolic expressions and their computation by machine, part 1](http://cs.cmu.edu/~crary/819-f09/McCarthy60.pdf). The original version is [http://www.brinckerhoff.org/clements/csc530-sp09/Readings/mccarthy-1960.pdf].
 Discussion leader: Paolo.
 
-Please try to prepare a summary and questions by Sunday (in case we need to meet on Monday).
+Please prepare a summary and questions by Sunday.
 
 ### Other relevant papers (to pick from for future meetings)
 
