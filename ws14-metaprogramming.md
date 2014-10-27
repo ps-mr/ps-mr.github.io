@@ -69,6 +69,12 @@ Please prepare a summary and questions by *Monday, 23:59*.
 
 Further papers will be listed, depending on topics of interest.
 
+### Absence policy
+
+This seminar is a discussion seminar, so it is necessary that you actually attend meetings in order to benefit from the seminar and pass the exam.
+
+You are allowed to miss at most two of the meetings and still pass the seminar. Should this become a problem and should the absences be due to justifiable reasons, we *might* be able to agree on alternative loads to compensate for the absences.
+
 ### Registering: Doodle poll for timeslot
 
 If you are interested to participate, please send me an email with name, student number, course and a short summary of favored languages or relevant experience.
