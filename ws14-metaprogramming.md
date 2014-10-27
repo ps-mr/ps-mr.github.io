@@ -71,8 +71,6 @@ Further papers will be listed, depending on topics of interest.
 
 ### Registering: Doodle poll for timeslot
 
-If you are interested to participate, I kindly ask you the following.
+If you are interested to participate, please send me an email with name, student number, course and a short summary of favored languages or relevant experience.
 
-1. Indicate your availability [here](http://doodle.com/bnx7773c7msnq29i). Please let me know ASAP if you need timeslots for odd hours because of your lectures.
-And please fill in the Doodle ASAP, possibly by Friday (or let me know if you can't).
-2. Send me an email with name, student number, course and a short summary of favored languages or relevant experience.
+We picked the timeslot with a [Doodle poll](http://doodle.com/bnx7773c7msnq29i), now closed. I might reopen this poll, should the necessity arise.
