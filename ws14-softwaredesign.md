@@ -40,4 +40,14 @@ Credits: 6 LP
 
 ### Registrierung für Übungen
 
-24.10.2014 Füllen Sie bitte [diesen Formular](https://docs.google.com/forms/d/1WU0hSofxvsC7CMnf4RWhF5qLjQobP6lXQOY5MlCzExY/viewform) aus.
+27.10.2014 Registrieren Sie bitte Ihre Gruppe per E-Mail. Für jeden Gruppenmitglied, bitte angeben:
+
+* Name, Vorname
+* E-Mail
+* Matrikelnummer
+* Studiensemester
+* Studiengang
+* Wie viel Programmiererfahrung Sie haben (von 1 = Anfänger bis 5 = Fortgeschrittene)
+* Welche Programmiersprachen kennen Sie, und mit wieviel Erfährung (von 1 bis 3)?
+
+Wer hat sich schon per Formular registriert, muss sich nicht dieselben Info wieder angeben; aber listen bitte Namen auf.
