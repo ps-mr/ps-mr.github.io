@@ -35,6 +35,9 @@ Credits: 6 LP
 
 24.10.2014 Herr Paolo Giarrusso (email: p (dot) giarrusso (at) gmail (dot) com) übernimmt die erste Übung. Die Übung wird auf Englisch stattfinden.
 
+### Übungen & Übungszettel
+1. Übung (24.10.2014). [Folien und Übungszettel (am Ende)](https://github.com/klauso/SDPT2014/raw/master/exercises/WS14-SDPT%20Ex1.pdf). Abgabefrist am 29.10.2014 23:59 per E-Mail am [Jonathan Brachthäuser](jonathan.brachthaeuser@uni-tuebingen.de), zusammen mit der Registrierung (siehe unten).
+
 ### Registrierung für Übungen
 
 24.10.2014 Füllen Sie bitte [diesen Formular](https://docs.google.com/forms/d/1WU0hSofxvsC7CMnf4RWhF5qLjQobP6lXQOY5MlCzExY/viewform) aus.
