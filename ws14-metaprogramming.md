@@ -17,6 +17,7 @@ Prof. Klaus Ostermann
 Language: English  
 Credits: 4 LP  
 [LSF entry](http://campus.verwaltung.uni-tuebingen.de/lsfpublic/rds?state=verpublish&status=init&vmfile=no&publishid=114223&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)  
+Weekly meeting: Tuesday, 18:15-19:45 --- room [C311](http://campus.verwaltung.uni-tuebingen.de/lsfpublic/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoRaum&publishSubDir=raum&keep=y&raum.rgid=2963)  
 Contact: p (dot) giarrusso (at) gmail (dot) com
 
 ### Kick-off meeting
@@ -46,7 +47,7 @@ There are different approaches to reading a research paper, some more productive
 
 ### Seminar schedule:
 
-* First meeting (Tuesday 28, 6pm --- room to be determined).  
+* First meeting (Tuesday 28, 18:15-19:45 --- room [C311](http://campus.verwaltung.uni-tuebingen.de/lsfpublic/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoRaum&publishSubDir=raum&keep=y&raum.rgid=2963)).  
 On *programs as data*: McCarthy, 1960. [Recursive functions of symbolic expressions and their computation by machine, part 1](http://cs.cmu.edu/~crary/819-f09/McCarthy60.pdf). The original version is [here](http://www.brinckerhoff.org/clements/csc530-sp09/Readings/mccarthy-1960.pdf).  
 Feel free to skip Sec. 5.  
 Discussion leader: Paolo.
