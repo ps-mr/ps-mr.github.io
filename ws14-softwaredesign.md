@@ -38,6 +38,8 @@ Credits: 6 LP\\
 ### Übungen & Übungszettel
 1. Übung (24.10.2014). [Folien und Übungszettel (am Ende)](https://github.com/klauso/SDPT2014/raw/master/exercises/WS14-SDPT%20Ex1.pdf). Abgabefrist am 29.10.2014 23:59 per E-Mail an [Jonathan Brachthäuser](jonathan.brachthaeuser@uni-tuebingen.de), zusammen mit der Registrierung (siehe unten).
 
+2. Übung (31.10.2014). [Übungszettel](https://github.com/klauso/SDPT2014/raw/master/exercises/WS14-SDPT%20Ex2.pdf). Abgabefrist am 29.10.2014 23:59 per E-Mail an [Jonathan Brachthäuser](jonathan.brachthaeuser@uni-tuebingen.de) unter Angabe der Namen aller Gruppenmitglieder.
+
 ### Registrierung für Übungen
 
 27.10.2014 Bitte bilden Sie Gruppen und registrieren Sie diese per [E-Mail](jonathan.brachthaeuser@uni-tuebingen.de). Geben Sie dabei für jedes Gruppenmitglied die folgenden Daten an:
