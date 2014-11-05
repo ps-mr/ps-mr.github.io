@@ -13,7 +13,7 @@ More details will be announced through this page.
 Paolo G. Giarrusso\\
 Prof. Klaus Ostermann
 
-### Seminar schedule:
+### Seminar schedule
 
 Each week, please prepare and submit a summary and questions by the *Monday, 23:59* before the meeting.
 
