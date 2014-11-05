@@ -13,6 +13,35 @@ More details will be announced through this page.
 Paolo G. Giarrusso  
 Prof. Klaus Ostermann
 
+### Seminar schedule:
+
+Each week, please prepare and submit a summary and questions by the *Monday, 23:59* before the meeting.
+
+* First meeting (Tuesday 28.10.).  
+On *programs as data*: McCarthy, 1960. [Recursive functions of symbolic expressions and their computation by machine, part 1](http://cs.cmu.edu/~crary/819-f09/McCarthy60.pdf), *Communications of the ACM*. The original version is [here](http://www.brinckerhoff.org/clements/csc530-sp09/Readings/mccarthy-1960.pdf).  
+Feel free to skip Sec. 5.  
+Discussion leader: Paolo.
+
+* Second meeting (Tuesday 4.11.)
+On *macros*: Weise and Crew, 1993. [Programmable Syntax Macros](http://dl.acm.org/citation.cfm?id=155105), *Proceedings of PLDI*.  
+Discussion leader: Werner.
+
+### Other relevant papers (to pick from for future meetings)
+
+* On *staging*: Taha and Sheard, 1997. [Multi-stage programming with explicit annotations](http://dl.acm.org/citation.cfm?id=259019).
+
+* On *staging* and *language virtualization*: Rompf and Odersky, 2012. [Lightweight modular staging: a pragmatic approach to runtime code generation and compiled DSLs](http://dl.acm.org/citation.cfm?id=2184345).
+
+* On *macros and hygiene*: Clinger and Rees, 1991. [Macros that work](http://dl.acm.org/citation.cfm?id=99607).
+
+* On *syntax macros*: Erdweg, Rendel, Kästner, and Ostermann, 2011. [SugarJ: Library-based syntactic language extensibility](http://dl.acm.org/citation.cfm?id=2048099).
+
+* On *metaobject protocols*: Kiczales, Ashley, Rodriguez, Vahdat, and Bobrow, 1993. [Metaobject protocols: why we want them and what else they can do](http://cseweb.ucsd.edu/~vahdat/papers/mop.pdf).
+
+* On *domain-specific languages*: Conal Elliott, Sigbjørn Finne and Oege De Moor, 2003. [Compiling embedded languages](http://journals.cambridge.org/article_S0956796802004574).
+
+Further papers will be listed, depending on topics of interest.
+
 ### Other info
 Language: English  
 Credits: 4 LP  
@@ -44,35 +73,6 @@ There are different approaches to reading a research paper, some more productive
 * Philip W. L. Fong, 2004. [How to Read a CS Research Paper?](http://faculty.ksu.edu.sa/chikh/Documents/reading-paper.pdf) (4 pages).
 * S. Keshav, 2007. [How to Read a Paper](http://groups.csail.mit.edu/netmit/wordpress/wp-content/themes/netmit/papers/HowtoRead.pdf) (2 pages).
 
-
-### Seminar schedule:
-
-Each week, please prepare and submit a summary and questions by the *Monday, 23:59* before the meeting.
-
-* First meeting (Tuesday 28.10.).  
-On *programs as data*: McCarthy, 1960. [Recursive functions of symbolic expressions and their computation by machine, part 1](http://cs.cmu.edu/~crary/819-f09/McCarthy60.pdf), *Communications of the ACM*. The original version is [here](http://www.brinckerhoff.org/clements/csc530-sp09/Readings/mccarthy-1960.pdf).  
-Feel free to skip Sec. 5.  
-Discussion leader: Paolo.
-
-* Second meeting (Tuesday 4.11.)
-On *macros*: Weise and Crew, 1993. [Programmable Syntax Macros](http://dl.acm.org/citation.cfm?id=155105), *Proceedings of PLDI*.  
-Discussion leader: Werner.
-
-### Other relevant papers (to pick from for future meetings)
-
-* On *staging*: Taha and Sheard, 1997. [Multi-stage programming with explicit annotations](http://dl.acm.org/citation.cfm?id=259019).
-
-* On *staging* and *language virtualization*: Rompf and Odersky, 2012. [Lightweight modular staging: a pragmatic approach to runtime code generation and compiled DSLs](http://dl.acm.org/citation.cfm?id=2184345).
-
-* On *macros and hygiene*: Clinger and Rees, 1991. [Macros that work](http://dl.acm.org/citation.cfm?id=99607).
-
-* On *syntax macros*: Erdweg, Rendel, Kästner, and Ostermann, 2011. [SugarJ: Library-based syntactic language extensibility](http://dl.acm.org/citation.cfm?id=2048099).
-
-* On *metaobject protocols*: Kiczales, Ashley, Rodriguez, Vahdat, and Bobrow, 1993. [Metaobject protocols: why we want them and what else they can do](http://cseweb.ucsd.edu/~vahdat/papers/mop.pdf).
-
-* On *domain-specific languages*: Conal Elliott, Sigbjørn Finne and Oege De Moor, 2003. [Compiling embedded languages](http://journals.cambridge.org/article_S0956796802004574).
-
-Further papers will be listed, depending on topics of interest.
 
 ### Absence policy
 
