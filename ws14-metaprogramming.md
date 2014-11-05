@@ -27,7 +27,7 @@ On *macros*: Weise and Crew, 1993. [Programmable Syntax Macros](http://dl.acm.or
 Discussion leader: Werner.
 
 * Third meeting (Tuesday 11.11.)\\
-On *syntax macros* and *sugar libraries*: Erdweg, Rendel, Kästner, and Ostermann, 2011. [SugarJ: Library-based syntactic language extensibility](http://dl.acm.org/citation.cfm?id=2048099).\\
+On *syntax macros* and *sugar libraries*: Erdweg, Rendel, Kästner, and Ostermann, 2011. [SugarJ: Library-based syntactic language extensibility](http://dl.acm.org/citation.cfm?id=2048099). [Unrestricted download link](http://www.student.informatik.tu-darmstadt.de/~xx00seba/publications/sugarj.pdf).\\
 Discussion leader: Julian.
 
 ### Other relevant papers (to pick from for future meetings)
