@@ -10,20 +10,20 @@ More details will be announced through this page.
 
 ### Instructors
 
-Paolo G. Giarrusso  
+Paolo G. Giarrusso\\
 Prof. Klaus Ostermann
 
 ### Seminar schedule:
 
 Each week, please prepare and submit a summary and questions by the *Monday, 23:59* before the meeting.
 
-* First meeting (Tuesday 28.10.).  
-On *programs as data*: McCarthy, 1960. [Recursive functions of symbolic expressions and their computation by machine, part 1](http://cs.cmu.edu/~crary/819-f09/McCarthy60.pdf), *Communications of the ACM*. The original version is [here](http://www.brinckerhoff.org/clements/csc530-sp09/Readings/mccarthy-1960.pdf).  
-Feel free to skip Sec. 5.  
+* First meeting (Tuesday 28.10.).\\
+On *programs as data*: McCarthy, 1960. [Recursive functions of symbolic expressions and their computation by machine, part 1](http://cs.cmu.edu/~crary/819-f09/McCarthy60.pdf), *Communications of the ACM*. The original version is [here](http://www.brinckerhoff.org/clements/csc530-sp09/Readings/mccarthy-1960.pdf).\\
+Feel free to skip Sec. 5.\\
 Discussion leader: Paolo.
 
 * Second meeting (Tuesday 4.11.)
-On *macros*: Weise and Crew, 1993. [Programmable Syntax Macros](http://dl.acm.org/citation.cfm?id=155105), *Proceedings of PLDI*.  
+On *macros*: Weise and Crew, 1993. [Programmable Syntax Macros](http://dl.acm.org/citation.cfm?id=155105), *Proceedings of PLDI*.\\
 Discussion leader: Werner.
 
 ### Other relevant papers (to pick from for future meetings)
@@ -43,15 +43,15 @@ Discussion leader: Werner.
 Further papers will be listed, depending on topics of interest.
 
 ### Other info
-Language: English  
-Credits: 4 LP  
-[LSF entry](http://campus.verwaltung.uni-tuebingen.de/lsfpublic/rds?state=verpublish&status=init&vmfile=no&publishid=114223&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)  
-Weekly meeting: Tuesday, 18:15-19:45 --- room [C311](http://campus.verwaltung.uni-tuebingen.de/lsfpublic/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoRaum&publishSubDir=raum&keep=y&raum.rgid=2963)  
+Language: English\\
+Credits: 4 LP\\
+[LSF entry](http://campus.verwaltung.uni-tuebingen.de/lsfpublic/rds?state=verpublish&status=init&vmfile=no&publishid=114223&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)\\
+Weekly meeting: Tuesday, 18:15-19:45 --- room [C311](http://campus.verwaltung.uni-tuebingen.de/lsfpublic/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoRaum&publishSubDir=raum&keep=y&raum.rgid=2963)\\
 Contact: p (dot) giarrusso (at) gmail (dot) com
 
 ### Kick-off meeting
 
-21.10.2014 17:15-19:00, [Room A302](http://campus.verwaltung.uni-tuebingen.de/lsfpublic/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoRaum&publishSubDir=raum&keep=y&raum.rgid=2786).  
+21.10.2014 17:15-19:00, [Room A302](http://campus.verwaltung.uni-tuebingen.de/lsfpublic/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoRaum&publishSubDir=raum&keep=y&raum.rgid=2786).\\
 [Introduction slides](https://github.com/Blaisorblade/ws14-mp/blob/master/WS14-Metaprogramming.pdf?raw=true).
 
 ### Expected workload
