@@ -17,12 +17,12 @@ Prof. Klaus Ostermann
 
 Each week, please prepare and submit a summary and questions by the *Monday, 23:59* before the meeting.
 
-* First meeting (Tuesday 28.10.).\\
+* First meeting (Tuesday 28.10.)\\
 On *programs as data*: McCarthy, 1960. [Recursive functions of symbolic expressions and their computation by machine, part 1](http://cs.cmu.edu/~crary/819-f09/McCarthy60.pdf), *Communications of the ACM*. The original version is [here](http://www.brinckerhoff.org/clements/csc530-sp09/Readings/mccarthy-1960.pdf).\\
 Feel free to skip Sec. 5.\\
 Discussion leader: Paolo.
 
-* Second meeting (Tuesday 4.11.)
+* Second meeting (Tuesday 4.11.)\\
 On *macros*: Weise and Crew, 1993. [Programmable Syntax Macros](http://dl.acm.org/citation.cfm?id=155105), *Proceedings of PLDI*.\\
 Discussion leader: Werner.
 
