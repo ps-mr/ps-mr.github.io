@@ -26,6 +26,10 @@ Discussion leader: Paolo.
 On *macros*: Weise and Crew, 1993. [Programmable Syntax Macros](http://dl.acm.org/citation.cfm?id=155105), *Proceedings of PLDI*.\\
 Discussion leader: Werner.
 
+* Third meeting (Tuesday 11.11.)\\
+On *syntax macros* and *sugar libraries*: Erdweg, Rendel, Kästner, and Ostermann, 2011. [SugarJ: Library-based syntactic language extensibility](http://dl.acm.org/citation.cfm?id=2048099).\\
+Discussion leader: Julian.
+
 ### Other relevant papers (to pick from for future meetings)
 
 * On *staging*: Taha and Sheard, 1997. [Multi-stage programming with explicit annotations](http://dl.acm.org/citation.cfm?id=259019).
@@ -33,8 +37,6 @@ Discussion leader: Werner.
 * On *staging* and *language virtualization*: Rompf and Odersky, 2012. [Lightweight modular staging: a pragmatic approach to runtime code generation and compiled DSLs](http://dl.acm.org/citation.cfm?id=2184345).
 
 * On *macros and hygiene*: Clinger and Rees, 1991. [Macros that work](http://dl.acm.org/citation.cfm?id=99607).
-
-* On *syntax macros*: Erdweg, Rendel, Kästner, and Ostermann, 2011. [SugarJ: Library-based syntactic language extensibility](http://dl.acm.org/citation.cfm?id=2048099).
 
 * On *metaobject protocols*: Kiczales, Ashley, Rodriguez, Vahdat, and Bobrow, 1993. [Metaobject protocols: why we want them and what else they can do](http://cseweb.ucsd.edu/~vahdat/papers/mop.pdf).
 
