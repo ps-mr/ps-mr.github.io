@@ -36,11 +36,11 @@ Credits: 6 LP\\
 24.10.2014 Herr Paolo Giarrusso (email: p (dot) giarrusso (at) gmail (dot) com) übernimmt die erste Übung. Die Übung wird auf Englisch stattfinden.
 
 ### Übungen & Übungszettel
-1. Übung (24.10.2014). [Folien und Übungszettel (am Ende)](https://github.com/klauso/SDPT2014/raw/master/exercises/WS14-SDPT%20Ex1.pdf). Abgabefrist am 29.10.2014 23:59 per E-Mail an [Jonathan Brachthäuser](jonathan.brachthaeuser@uni-tuebingen.de), zusammen mit der Registrierung (siehe unten).
+1. Übung (24.10.2014). [Folien und Übungszettel (am Ende)](https://github.com/klauso/SDPT2014/raw/master/exercises/WS14-SDPT%20Ex1.pdf). Abgabefrist am 29.10.2014 23:59 per E-Mail an [Jonathan Brachthäuser](mailto:jonathan.brachthaeuser@uni-tuebingen.de), zusammen mit der Registrierung (siehe unten).
 
-2. Übung (31.10.2014). [Übungszettel](https://github.com/b-studios/SDPT2014/raw/master/exercises/WS14-SDPT%20Ex2.pdf). Abgabefrist am 5.11.2014 23:59 per E-Mail an [Jonathan Brachthäuser](jonathan.brachthaeuser@uni-tuebingen.de) unter Angabe der Namen aller Gruppenmitglieder.
+2. Übung (31.10.2014). [Übungszettel](https://github.com/b-studios/SDPT2014/raw/master/exercises/WS14-SDPT%20Ex2.pdf). Abgabefrist am 5.11.2014 23:59 per E-Mail an [Jonathan Brachthäuser](mailto:jonathan.brachthaeuser@uni-tuebingen.de) unter Angabe der Namen aller Gruppenmitglieder.
 
-3. Übung (07.11.2014). [Übungszettel](https://github.com/b-studios/SDPT2014/raw/master/exercises/WS14-SDPT%20Ex3.pdf). Abgabefrist am 12.11.2014 23:59 per E-Mail an [Jonathan Brachthäuser](jonathan.brachthaeuser@uni-tuebingen.de) unter Angabe der Namen aller Gruppenmitglieder.
+3. Übung (07.11.2014). [Übungszettel](https://github.com/b-studios/SDPT2014/raw/master/exercises/WS14-SDPT%20Ex3.pdf). Abgabefrist am 12.11.2014 23:59 per E-Mail an [Jonathan Brachthäuser](mailto:jonathan.brachthaeuser@uni-tuebingen.de) unter Angabe der Namen aller Gruppenmitglieder.
 
 
 ### Registrierung für Übungen
