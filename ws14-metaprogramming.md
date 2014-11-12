@@ -17,18 +17,28 @@ Prof. Klaus Ostermann
 
 Each week, please prepare and submit a summary and questions by the *Monday, 23:59* before the meeting.
 
-* First meeting (Tuesday 28.10.)\\
-On *programs as data*: McCarthy, 1960. [Recursive functions of symbolic expressions and their computation by machine, part 1](http://cs.cmu.edu/~crary/819-f09/McCarthy60.pdf), *Communications of the ACM*. The original version is [here](http://www.brinckerhoff.org/clements/csc530-sp09/Readings/mccarthy-1960.pdf).\\
-Feel free to skip Sec. 5.\\
-Discussion leader: Paolo.
+* 1st meeting (Tuesday 28.10.)\\
+On *programs as data*: McCarthy, 1960.
+[Recursive functions of symbolic expressions and their computation by machine, part 1](http://cs.cmu.edu/~crary/819-f09/McCarthy60.pdf), *Communications of the ACM*.
+The original version is [here](http://www.brinckerhoff.org/clements/csc530-sp09/Readings/mccarthy-1960.pdf).\\
+*[Bibliographic data/official version](http://dl.acm.org/citation.cfm?id=367199)*.\\
+Feel free to skip Sec. 5.
 
-* Second meeting (Tuesday 4.11.)\\
-On *macros*: Weise and Crew, 1993. [Programmable Syntax Macros](http://dl.acm.org/citation.cfm?id=155105), *Proceedings of PLDI*.\\
-Discussion leader: Werner.
+    Discussion leader: Paolo.
 
-* Third meeting (Tuesday 11.11.)\\
-On *syntax macros* and *sugar libraries*: Erdweg, Rendel, Kästner, and Ostermann, 2011. [SugarJ: Library-based syntactic language extensibility](http://dl.acm.org/citation.cfm?id=2048099). [Unrestricted download link](http://www.student.informatik.tu-darmstadt.de/~xx00seba/publications/sugarj.pdf).\\
-Discussion leader: Julian.
+* 2nd meeting (Tuesday 4.11.)\\
+On *macros*: Weise and Crew, 1993.
+Programmable Syntax Macros, *Proceedings of PLDI*.\\
+*[Bibliographic data/official version](http://dl.acm.org/citation.cfm?id=155105)*.\\
+
+    Discussion leader: Werner.
+
+* 3rd meeting (Tuesday 11.11.)\\
+On *syntax macros* and *sugar libraries*: Erdweg, Rendel, Kästner, and Ostermann, 2011.
+[SugarJ: Library-based syntactic language extensibility](http://www.student.informatik.tu-darmstadt.de/~xx00seba/publications/sugarj.pdf), *Proceedings of OOPSLA*.\\
+*[Bibliographic data/official version](http://dl.acm.org/citation.cfm?id=2048099)*.
+
+    Discussion leader: Julian.
 
 ### Other relevant papers (to pick from for future meetings)
 
