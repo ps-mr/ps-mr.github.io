@@ -29,7 +29,7 @@ Feel free to skip Sec. 5.
 * 2nd meeting (Tuesday 4.11.)\\
 On *macros*: Weise and Crew, 1993.
 Programmable Syntax Macros, *Proceedings of PLDI*.\\
-*[Bibliographic data/official version](http://dl.acm.org/citation.cfm?id=155105)*.\\
+*[Bibliographic data/official version](http://dl.acm.org/citation.cfm?id=155105)*.
 
     Discussion leader: Werner.
 
