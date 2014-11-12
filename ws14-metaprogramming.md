@@ -40,9 +40,22 @@ On *syntax macros* and *sugar libraries*: Erdweg, Rendel, Kästner, and Osterman
 
     Discussion leader: Julian.
 
-### Other relevant papers (to pick from for future meetings)
+* 4th meeting (Tuesday 18.11.)\\
+On *staging*: Walid Taha and Tim Sheard, 1997.
+[Multi-stage programming with explicit annotations](http://pdf.aminer.org/000/538/255/multi_stage_programming_with_explicit_annotations.pdf), *Proceedings of PEPM*.\\
+*[Bibliographic data/official version](http://dl.acm.org/citation.cfm?id=259019)*.
 
-* On *staging*: Taha and Sheard, 1997. [Multi-stage programming with explicit annotations](http://dl.acm.org/citation.cfm?id=259019).
+    Please focus on Sec. 1-10 and 13, but take a look at the rest.\\
+Discussion leader: Kristina.
+
+* 5th meeting (Tuesday 25.11.)\\
+Tim Sheard and Simon Peyton Jones, 2002.
+[Template meta-programming for Haskell](http://research.microsoft.com/en-us/um/people/simonpj/Papers/meta-haskell/meta-haskell.pdf), *Proceedings Haskell Workshop*.\\
+*[Bibliographic data/official version](http://dl.acm.org/citation.cfm?doid=581690.581691)*.
+
+    Discussion leader: Jonas.
+
+### Other relevant papers (to pick from for future meetings)
 
 * On *staging* and *language virtualization*: Rompf and Odersky, 2012. [Lightweight modular staging: a pragmatic approach to runtime code generation and compiled DSLs](http://dl.acm.org/citation.cfm?id=2184345).
 
