@@ -42,6 +42,8 @@ Credits: 6 LP\\
 
 3. Übung (07.11.2014). [Übungszettel](https://github.com/b-studios/SDPT2014/raw/master/exercises/WS14-SDPT%20Ex3.pdf). Abgabefrist am 12.11.2014 23:59 per E-Mail an [Jonathan Brachthäuser](mailto:jonathan.brachthaeuser@uni-tuebingen.de) unter Angabe der Namen aller Gruppenmitglieder.
 
+4. Übung (14.11.2014). [Übungszettel](https://github.com/b-studios/SDPT2014/raw/master/exercises/WS14-SDPT%20Ex4.pdf). Abgabefrist am 19.11.2014 23:59 per E-Mail an [Jonathan Brachthäuser](mailto:jonathan.brachthaeuser@uni-tuebingen.de) unter Angabe der Namen aller Gruppenmitglieder.
+
 
 ### Registrierung für Übungen
 
