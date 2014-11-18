@@ -55,6 +55,10 @@ Tim Sheard and Simon Peyton Jones, 2002.
 
     Discussion leader: Jonas.
 
+    See also, for background on the notation,
+    [this note by Prof. Jeremy Siek](http://siek.blogspot.de/2012/07/crash-course-on-notation-in-programming.html).
+
+
 ### Other relevant papers (to pick from for future meetings)
 
 * On *staging* and *language virtualization*: Rompf and Odersky, 2012. [Lightweight modular staging: a pragmatic approach to runtime code generation and compiled DSLs](http://dl.acm.org/citation.cfm?id=2184345).
