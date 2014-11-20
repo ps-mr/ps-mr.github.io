@@ -55,9 +55,13 @@ Tim Sheard and Simon Peyton Jones, 2002.
 
     Discussion leader: Jonas.
 
-    See also, for background on the notation,
-    [this note by Prof. Jeremy Siek](http://siek.blogspot.de/2012/07/crash-course-on-notation-in-programming.html).
+    Focus on the high-level picture (as discussed by the guides to reading
+    papers), not so much on the details of the Haskell API. My suggestion is to
+    please focus on Sec. 1-5, 10 and 12, skim Sec. 6, 7, 8.1, 9, but skip Sec.
+    9.3.
 
+    See also, for background on the notation of Fig. 2 (in Sec. 7),
+    [this note by Prof. Jeremy Siek](http://siek.blogspot.de/2012/07/crash-course-on-notation-in-programming.html). Understanding code snippets is not so critical, but [some cheatsheets exist](http://fundeps.com/posts/cheatsheets/2014-03-04-cheat-sheets/), though I'm not sure which to recommend.
 
 ### Other relevant papers (to pick from for future meetings)
 
