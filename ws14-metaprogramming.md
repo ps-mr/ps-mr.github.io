@@ -17,7 +17,7 @@ Prof. Klaus Ostermann
 
 Each week, please prepare and submit a summary and questions by the *Monday, 23:59* before the meeting.
 
-* 1st meeting (Tuesday 28.10.)\\
+1. Tuesday 28.10.\\
 On *programs as data*: McCarthy, 1960.
 [Recursive functions of symbolic expressions and their computation by machine, part 1](http://cs.cmu.edu/~crary/819-f09/McCarthy60.pdf), *Communications of the ACM*.
 The original version is [here](http://www.brinckerhoff.org/clements/csc530-sp09/Readings/mccarthy-1960.pdf).\\
@@ -26,21 +26,21 @@ Feel free to skip Sec. 5.
 
     Discussion leader: Paolo.
 
-* 2nd meeting (Tuesday 4.11.)\\
+2. Tuesday 4.11.\\
 On *macros*: Weise and Crew, 1993.
 Programmable Syntax Macros, *Proceedings of PLDI*.\\
 *[Bibliographic data/official version](http://dl.acm.org/citation.cfm?id=155105)*.
 
     Discussion leader: Werner.
 
-* 3rd meeting (Tuesday 11.11.)\\
+3. Tuesday 11.11.\\
 On *syntax macros* and *sugar libraries*: Erdweg, Rendel, Kästner, and Ostermann, 2011.
 [SugarJ: Library-based syntactic language extensibility](http://www.student.informatik.tu-darmstadt.de/~xx00seba/publications/sugarj.pdf), *Proceedings of OOPSLA*.\\
 *[Bibliographic data/official version](http://dl.acm.org/citation.cfm?id=2048099)*.
 
     Discussion leader: Julian.
 
-* 4th meeting (Tuesday 18.11.)\\
+4. Tuesday 18.11.\\
 On *staging*: Walid Taha and Tim Sheard, 1997.
 [Multi-stage programming with explicit annotations](http://pdf.aminer.org/000/538/255/multi_stage_programming_with_explicit_annotations.pdf), *Proceedings of PEPM*.\\
 *[Bibliographic data/official version](http://dl.acm.org/citation.cfm?id=259019)*.
@@ -48,7 +48,7 @@ On *staging*: Walid Taha and Tim Sheard, 1997.
     Please focus on Sec. 1-10 and 13, but take a look at the rest.\\
 Discussion leader: Kristina.
 
-* 5th meeting (Tuesday 25.11.)\\
+5. Tuesday 25.11.\\
 Tim Sheard and Simon Peyton Jones, 2002.
 [Template meta-programming for Haskell](http://research.microsoft.com/en-us/um/people/simonpj/Papers/meta-haskell/meta-haskell.pdf), *Proceedings Haskell Workshop*.\\
 *[Bibliographic data/official version](http://dl.acm.org/citation.cfm?doid=581690.581691)*.
@@ -63,23 +63,24 @@ Tim Sheard and Simon Peyton Jones, 2002.
     See also, for background on the notation of Fig. 2 (in Sec. 7),
     [this note by Prof. Jeremy Siek](http://siek.blogspot.de/2012/07/crash-course-on-notation-in-programming.html). Understanding code snippets is not so critical, but [some cheatsheets exist](http://fundeps.com/posts/cheatsheets/2014-03-04-cheat-sheets/), though I'm not sure which to recommend.
 
-* 6th meeting (Tuesday 2.12.)
+6. Tuesday 2.12.
 
-* 7th meeting (Tuesday 9.12.)
+7. Tuesday 9.12.
 
-* 8th meeting (Tuesday 16.12.)
+8. Tuesday 16.12.
+\\
+\\
+**Christmas break**
 
-* **Christmas break**
+9. Tuesday 13.01.
 
-* 9th meeting (Tuesday 13.01.)
+10. Tuesday 20.01.
 
-* 10th meeting (Tuesday 20.01.)
+11. Tuesday 27.01.
 
-* 11th meeting (Tuesday 27.01.)
+12. Tuesday 3.02.
 
-* 12th meeting (Tuesday 3.02.)
-
-* 13th meeting (Tuesday 10.02.)
+13. Tuesday 10.02.
 
 ### Other relevant papers (to pick from for future meetings)
 
