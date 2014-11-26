@@ -63,6 +63,24 @@ Tim Sheard and Simon Peyton Jones, 2002.
     See also, for background on the notation of Fig. 2 (in Sec. 7),
     [this note by Prof. Jeremy Siek](http://siek.blogspot.de/2012/07/crash-course-on-notation-in-programming.html). Understanding code snippets is not so critical, but [some cheatsheets exist](http://fundeps.com/posts/cheatsheets/2014-03-04-cheat-sheets/), though I'm not sure which to recommend.
 
+* 6th meeting (Tuesday 2.12.)
+
+* 7th meeting (Tuesday 9.12.)
+
+* 8th meeting (Tuesday 16.12.)
+
+* **Christmas break**
+
+* 9th meeting (Tuesday 13.01.)
+
+* 10th meeting (Tuesday 20.01.)
+
+* 11th meeting (Tuesday 27.01.)
+
+* 12th meeting (Tuesday 3.02.)
+
+* 13th meeting (Tuesday 10.02.)
+
 ### Other relevant papers (to pick from for future meetings)
 
 * On *staging* and *language virtualization*: Rompf and Odersky, 2012. [Lightweight modular staging: a pragmatic approach to runtime code generation and compiled DSLs](http://dl.acm.org/citation.cfm?id=2184345).
