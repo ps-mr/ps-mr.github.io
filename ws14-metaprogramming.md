@@ -109,10 +109,6 @@ Contact email: paolo (dot) giarrusso (at) uni-tuebingen (dot) de
 21.10.2014 17:15-19:00, [Room A302](http://campus.verwaltung.uni-tuebingen.de/lsfpublic/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoRaum&publishSubDir=raum&keep=y&raum.rgid=2786).\\
 [Introduction slides](https://github.com/Blaisorblade/ws14-mp/blob/master/WS14-Metaprogramming.pdf?raw=true).
 
-### Expected workload
-
-I miscomputed the seminar workload in the kick-off meeting. After a question, I updated the slides above, *reducing* the expected workload.
-
 ### Course structure
 
 During the semester, we will discuss together a paper each week in a meeting. Everybody should read the paper in advance, prepare and submit a short summary and questions (150-300 words). A discussion leader should dig deeper on the topic, also based on the questions by other students, and prepare to moderate the discussion. The role of discussion leader rotates among students.
@@ -128,15 +124,8 @@ There are different approaches to reading a research paper, some more productive
 * Philip W. L. Fong, 2004. [How to Read a CS Research Paper?](http://faculty.ksu.edu.sa/chikh/Documents/reading-paper.pdf) (4 pages).
 * S. Keshav, 2007. [How to Read a Paper](http://groups.csail.mit.edu/netmit/wordpress/wp-content/themes/netmit/papers/HowtoRead.pdf) (2 pages).
 
-
 ### Absence policy
 
 This seminar is a discussion seminar, so it is necessary that you actually attend meetings in order to benefit from the seminar and pass the exam.
 
 You are allowed to miss at most two of the meetings and still pass the seminar. Should this become a problem and should the absences be due to justifiable reasons, we *might* be able to agree on alternative loads to compensate for the absences.
-
-### Registering: Doodle poll for timeslot
-
-If you are interested to participate, please send me an email with name, student number, course and a short summary of favored languages or relevant experience.
-
-We picked the timeslot with a [Doodle poll](http://doodle.com/bnx7773c7msnq29i), now closed. I might reopen this poll, should the necessity arise.
