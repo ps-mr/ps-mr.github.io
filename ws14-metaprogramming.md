@@ -63,7 +63,12 @@ Tim Sheard and Simon Peyton Jones, 2002.
     See also, for background on the notation of Fig. 2 (in Sec. 7),
     [this note by Prof. Jeremy Siek](http://siek.blogspot.de/2012/07/crash-course-on-notation-in-programming.html). Understanding code snippets is not so critical, but [some cheatsheets exist](http://fundeps.com/posts/cheatsheets/2014-03-04-cheat-sheets/), though I'm not sure which to recommend.
 
-6. Tuesday 2.12.
+6. Tuesday 2.12.\\
+On *domain-specific languages and deep embedding*:
+Conal Elliott, Sigbjørn Finne and Oege De Moor, 2003. Compiling embedded languages, *Journal of Functional Programming*.
+*[Bibliographic data/official version](http://journals.cambridge.org/article_S0956796802004574)*.
+
+    Discussion leader: Jan.
 
 7. Tuesday 9.12.
 
@@ -89,8 +94,6 @@ Tim Sheard and Simon Peyton Jones, 2002.
 * On *macros and hygiene*: Clinger and Rees, 1991. [Macros that work](http://dl.acm.org/citation.cfm?id=99607).
 
 * On *metaobject protocols*: Kiczales, Ashley, Rodriguez, Vahdat, and Bobrow, 1993. [Metaobject protocols: why we want them and what else they can do](http://cseweb.ucsd.edu/~vahdat/papers/mop.pdf).
-
-* On *domain-specific languages*: Conal Elliott, Sigbjørn Finne and Oege De Moor, 2003. [Compiling embedded languages](http://journals.cambridge.org/article_S0956796802004574).
 
 Further papers will be listed, depending on topics of interest.
 
