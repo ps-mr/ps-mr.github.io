@@ -49,8 +49,8 @@ On *staging*: Walid Taha and Tim Sheard, 1997.
 Discussion leader: Kristina.
 
 5. Tuesday 25.11.\\
-Tim Sheard and Simon Peyton Jones, 2002.
-[Template meta-programming for Haskell](http://research.microsoft.com/en-us/um/people/simonpj/Papers/meta-haskell/meta-haskell.pdf), *Proceedings Haskell Workshop*.\\
+On *Template Haskell*: Tim Sheard and Simon Peyton Jones, 2002.
+[Template meta-programming for Haskell](http://research.microsoft.com/en-us/um/people/simonpj/Papers/meta-haskell/meta-haskell.pdf), *Proceedings of Haskell Workshop*.\\
 *[Bibliographic data/official version](http://dl.acm.org/citation.cfm?doid=581690.581691)*.
 
     Discussion leader: Jonas.
@@ -65,7 +65,7 @@ Tim Sheard and Simon Peyton Jones, 2002.
 
 6. Tuesday 2.12.\\
 On *domain-specific languages and deep embedding*:
-Conal Elliott, Sigbjørn Finne and Oege De Moor, 2003. Compiling embedded languages, *Journal of Functional Programming*.
+Conal Elliott, Sigbjørn Finne and Oege De Moor, 2003. Compiling embedded languages, *Journal of Functional Programming*.\\
 *[Bibliographic data/official version](http://journals.cambridge.org/article_S0956796802004574)*.
 
     Discussion leader: Jan.
