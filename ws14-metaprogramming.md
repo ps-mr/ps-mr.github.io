@@ -71,7 +71,7 @@ Conal Elliott, Sigbjørn Finne and Oege De Moor, 2003. Compiling embedded langua
     Discussion leader: Jan.
 
 7. Tuesday 9.12.\\
-On *macros and hygiene*:
+On *hygienic macros*:
 Eugene Kohlbecker, Daniel P. Friedman, Matthias Felleisen, Bruce Duba, 1986. [Hygienic macro expansion](https://xivilization.net/~marek/tex/hellprog/papers/p151-kohlbecker.pdf), *Proceedings of LFP (Conference on LISP and Functional Programming)*.\\
 *[Bibliographic data/official version](http://dl.acm.org/citation.cfm?id=319859)*.
 
