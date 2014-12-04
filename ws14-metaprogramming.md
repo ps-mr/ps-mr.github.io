@@ -94,9 +94,14 @@ Eugene Kohlbecker, Daniel P. Friedman, Matthias Felleisen, Bruce Duba, 1986. [Hy
 
 ### Other relevant papers (to pick from for future meetings)
 
-* On *staging* and *language virtualization*: Rompf and Odersky, 2012. [Lightweight modular staging: a pragmatic approach to runtime code generation and compiled DSLs](http://dl.acm.org/citation.cfm?id=2184345).
+* On *DSLs, deep embedding, language virtualization*: Hassan Chafi, Zach DeVito, Adriaan Moors, Tiark Rompf, Arvind K. Sujeeth, Pat Hanrahan, Martin Odersky, Kunle Olukotun, 2010.
+[Language Virtualization for Heterogeneous Parallel Computing](http://infoscience.epfl.ch/record/148814/files/paper.pdf). *Proceedings of Onward!*\\
+*[Bibliographic data/official version](http://dl.acm.org/citation.cfm?id=1869527)*.
 
-* On *macros and hygiene*: Clinger and Rees, 1991. [Macros that work](http://dl.acm.org/citation.cfm?id=99607).
+* On *DSLs*, *staging* and *language virtualization*: Rompf and Odersky, 2012. [Lightweight modular staging: a pragmatic approach to runtime code generation and compiled DSLs](http://dl.acm.org/citation.cfm?id=2184345).
+
+* On *macros and hygiene*: Clinger and Rees, 1991. Macros that work, *Proceedings of POPL*.\\
+*[Bibliographic data/official version](http://dl.acm.org/citation.cfm?id=99607)*.
 
 * On *metaobject protocols*: Kiczales, Ashley, Rodriguez, Vahdat, and Bobrow, 1993. [Metaobject protocols: why we want them and what else they can do](http://cseweb.ucsd.edu/~vahdat/papers/mop.pdf).
 
