@@ -1,5 +1,7 @@
 ---
 layout: index
+redirect_to:
+  - http://ps.informatik.uni-tuebingen.de/
 ---
 
 Welcome to the website of the programming languages and software technology group at Tübingen University.
